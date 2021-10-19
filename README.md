@@ -1,6 +1,6 @@
 
 # [Domótica](/domotica.md) - Projeto Integrador II
-## Repositório destinado ao projeto da turma de Projeto Integrador II, Engenharia Eletrõnica IFSC-Florianopolis.
+** Repositório destinado ao projeto da turma de Projeto Integrador II, Engenharia Eletrõnica IFSC-Florianopolis.**
 ___
 Assunto
 Importância
