@@ -3,8 +3,6 @@
 **Repositório destinado ao projeto da turma de Projeto Integrador II, Engenharia Eletrõnica IFSC-Florianopolis.**
 
 Clicando nos tópicos abaixo é possivel ver as etapas de criação e implementação do projeto:
-
- * [Introdução à Domótica](/introducao.md)
  
  * [Concepção do Projeto](/concepcao.md)
  
