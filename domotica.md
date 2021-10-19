@@ -34,6 +34,6 @@ Estes são alguns dos ganhos ligados a automação:
 - Conforto
 
  # Referências:
-MATTEDE Henrique, Domótica – O que é e quais as vantagens! Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/. Acesso em: 19 de Out. de 2021.
+#### MATTEDE Henrique, Domótica – O que é e quais as vantagens! Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/. Acesso em: 19 de Out. de 2021.
  ---
  [Voltar para pagina inicial](/README.md)
