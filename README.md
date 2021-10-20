@@ -6,7 +6,7 @@ ___
 - Importância: Contextualizar o curso de Engenharia Eletronica com protejo de metodologia CDIO.
 ___
 
-Clicando nos tópicos abaixo é possivel ver as etapas de criação e implementação do projeto:
+Clicando nos tópicos abaixo é possivel ver as etapas de desenvolvimento do projeto:
  
  * [Concepção do Projeto](/concepcao.md)
  
