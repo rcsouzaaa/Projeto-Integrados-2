@@ -1,7 +1,7 @@
  # Design
  
  
-  ### Recursos tecnologicos aplicadas ao projeto:
+  ## Recursos tecnologicos aplicadas ao projeto:
 
 - Arduino MEGA 2560 R3: Controlador dos sensores e dispositivos da casa;
 
