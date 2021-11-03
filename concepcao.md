@@ -13,8 +13,12 @@
  
  ## Requisitos:
  
- - Nivel de água da piscina;
- - Abertura de portao eletrônico;
+ - Sensor de estacionamento e iluminacao automatica para a garagem;
+ - Abertura de portao eletrônico remoto;
+ - Controle de temperatura e refrigeracao da casa;
+ - Detector de fumaça ou vazamento de gás na cozinha;
+ - Controle de umidade para jardim;
+ - Display com status dos sensores da casa;
  
  
  [Voltar para pagina inicial](/README.md)
