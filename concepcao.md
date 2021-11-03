@@ -8,7 +8,7 @@
  
  ## Objetivos:
  
-- Construção de uma maquete seguindo o modelo da planta fornecida;
+- Construção de uma maquete seguindo o modelo da planta;
 - Implementação dos dispositivos e sensores necessários.
  
  ## Requisitos:
