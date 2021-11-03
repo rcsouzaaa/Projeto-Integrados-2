@@ -19,6 +19,7 @@
  - Detector de fumaça ou vazamento de gás na cozinha;
  - Controle de umidade para jardim;
  - Display com status dos sensores da casa;
+ - Controle via celular para abrir o portao e outros comandos da casa.
  
  
  [Voltar para pagina inicial](/README.md)
