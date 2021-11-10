@@ -7,7 +7,7 @@
 - Construção de uma maquete seguindo o modelo da planta;
 - Implementação dos dispositivos e sensores necessários.
  
- ## Requisitos:
+ ## Funcionalidades:
  
  - Sensor de estacionamento e iluminação automatica para a garagem;
  - Abertura de portao eletrônico remoto;
