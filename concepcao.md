@@ -2,20 +2,15 @@
  
  A concepção do Projeto consiste na etapa de idealização do que será implementado ao longo do projeto, identificando as funçoes desejadas para automatizacao da maquete.
  
- ## Objetivos:
- 
-- Construção de uma maquete seguindo o modelo da planta;
-- Implementação dos dispositivos e sensores necessários.
- 
  ## Funcionalidades:
  
- - Sensor de estacionamento e iluminação automatica para a garagem;
- - Abertura de portao eletrônico remoto;
- - Controle de temperatura e refrigeracao da casa;
+ - Sensor de estacionamento sonoro e iluminação automatica por sensor de presenca na garagem;
+ - Abertura de portao eletrônico pelo aplicativo de celular;
+ - Controle de temperatura e refrigeracao da casa automatico;
  - Detector de fumaça ou vazamento de gás na cozinha;
  - Controle de umidade para jardim;
- - Display com status dos sensores da casa;
- - Controle via celular para abrir o portao e outros comandos da casa.
+ - Display com status dos sensores ativos na casa;
+ - Controle via celular para os comandos da casa.
  
   
   ## Recursos tecnologicos aplicadas ao projeto:
