@@ -31,7 +31,7 @@
 > 
 > - Buzzer passivo: Controlado por um pino de saída digital PWM, emitirá som ao ser atividado o sensor de gas e para a proximidade de veiculos na parede da garagem.
 > 
-> - Display LCD 16×2 I2C: O display LCD necsessita de diversos pinos para se conectar ao Arduino, porém com módulo I2C integrado essa conexão é feita utilizando apenas quatro pinos. Dois pinos são utilizados para alimentação e os outros dois para comunicação, no caso do Arduino Mega os pinos I2C a serem utilizados são o 20 (SDA) e 21 (SCL). O display LCD será resposável por exibir mensagens sobre o funcionamento do sistema.
+> - Display LCD 16×2 I2C: O display LCD com módulo I2C integrado essa conexão é feita utilizando quatro pinos. Dois pinos são utilizados para alimentação e os outros dois para comunicação. O display LCD será resposável por exibir mensagens sobre o funcionamento do sistema.
 
 ### Planta base para a Maquete:
 
