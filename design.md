@@ -3,7 +3,7 @@
 
 ### Maquete Eletrônica:
 
-> #### A maquete possibilita a visualizacao das ligacoes eletronicas e de como os sensores se comunicacao como um todo.
+> #### A maquete possibilita a visualização das ligações eletrônicas e de como os sensores se comunicação como um todo.
 > 
 >  ![Maquete](https://user-images.githubusercontent.com/12564754/143169612-df9655b0-2026-444f-a5dc-c30d06d1c035.png)
 > 
