@@ -21,7 +21,7 @@
 > 
 > - Sensor de presença e movimento PIR: Sensor para detectar movimentos na garagem e ligar a iluminacao.
 > 
-> - Módulo Sensor de Umidade: 
+> - Módulo Sensor de Umidade: Será o sensor para aviasr a hora de dar aguá as plantas do jardim.
 > 
 > - Módulo Relé: O relé será acionado por meio de um pino de saída digital e será utilizado para controlar o cooler.
 > 
