@@ -16,7 +16,7 @@
 | Módulo Matriz de LED 8×8  |  1 |
 |  Buzzer passivo |  1 |
 |  Display LCD 16×2 I2C | 1  |
-|  cooler | 1 x  |
+|  Cooler | 1 x  |
 
 > x Já possuo o componente
 
