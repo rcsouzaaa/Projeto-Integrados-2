@@ -1,5 +1,26 @@
  # Design
 
+### Lista de componentes:
+
+| Componente  |  Quantidade |
+|---|---|
+| Arduino Mega 2560  | 1  |
+|  Node MCU v1 | 1 * | 
+|  Servo Motor |  1 |
+| Sensor de gás MQ2  |  1 |
+|  Sensor de Temperatura DHT11 |  1 |
+|  Sensor de presença e movimento PIR |  1 |
+| Módulo Sensor de Umidade  |  1 |
+|  Módulo Relé |  1 |
+|  Sensor ultrasônico | 1  |
+| Módulo Matriz de LED 8×8  |  1 |
+|  Buzzer passivo |  1 |
+|  Display LCD 16×2 I2C | 1  |
+|  cooler | 1 *  |
+
+> * Já possuo o componente
+
+#### A maquete possibilita a visualização das ligações eletrônicas e de como os sensores se comunicação como um todo.
 
 ### Maquete Eletrônica:
 
