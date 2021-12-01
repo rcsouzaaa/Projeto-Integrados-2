@@ -19,15 +19,15 @@
 > 
 > - Sensor de Temperatura DHT11: Sensor de temperatura alimentado com 5V, ele envia os dados registrados por um pino de entrada analógica.
 > 
-> - Sensor de presença e movimento PIR: 
+> - Sensor de presença e movimento PIR: Sensor para detectar movimentos na garagem e ligar a iluminacao.
 > 
-> - Módulo Sensor de Umidade:
+> - Módulo Sensor de Umidade: 
 > 
 > - Módulo Relé: O relé será acionado por meio de um pino de saída digital e será utilizado para controlar o cooler.
 > 
-> - Sensor ultrasônico:
+> - Sensor ultrasônico: Detectar ao ter um veiculo na garagem, sua proximidade com a parede e avisar quando esta em posicao com o buzzer
 > 
-> - Módulo Matriz de LED 8×8:
+> - Módulo Matriz de LED 8×8: Iluminacao da garagem que será ativada pelo sensor de presenca.
 > 
 > - Buzzer passivo: Controlado por um pino de saída digital PWM, emitirá som ao ser atividado o sensor de gas e para a proximidade de veiculos na parede da garagem.
 > 
