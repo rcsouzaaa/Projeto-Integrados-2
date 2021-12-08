@@ -56,5 +56,23 @@
 
 ### Planta base para a Maquete:
 
+![planta casa](https://user-images.githubusercontent.com/12564754/145214745-3e470611-30e5-4256-aed8-0cabdae274de.png)
+
+
+| Componente  |  Local na planta |
+|---|---|
+| Arduino Mega 2560  | Externo a maquete  |
+|  Node MCU v1 | Externo a maquete  | 
+|  Servo Motor |  C |
+| Sensor de gás MQ2  |  D |
+|  Sensor de Temperatura DHT11 |  E |
+|  Sensor de presença e movimento PIR |  F |
+| Módulo Sensor de Umidade  |  G |
+|  Módulo Relé |  H |
+|  Sensor ultrasônico | I  |
+| Módulo Matriz de LED 8×8  |  J |
+|  Buzzer passivo |  K |
+|  Display LCD 16×2 I2C | L  |
+|  Cooler | M |
 
  [Voltar para pagina inicial](/README.md)
